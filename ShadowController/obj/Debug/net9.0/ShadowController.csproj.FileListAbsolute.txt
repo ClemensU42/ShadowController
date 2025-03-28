@@ -64,3 +64,4 @@
 /home/clemens/RiderProjects/ShadowController/ShadowController/obj/Debug/net9.0/ShadowCo.D1F743F6.Up2Date
 /home/clemens/RiderProjects/ShadowController/ShadowController/obj/Debug/net9.0/ShadowController.genruntimeconfig.cache
 /home/clemens/RiderProjects/ShadowController/ShadowController/obj/Debug/net9.0/ref/ShadowController.dll
+/home/clemens/RiderProjects/ShadowController/ShadowController/obj/Debug/net9.0/ShadowController.sourcelink.json

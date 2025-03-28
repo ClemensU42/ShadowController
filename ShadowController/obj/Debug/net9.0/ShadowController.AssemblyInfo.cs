@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ShadowController")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+db6162c1fcd0c0173a9d9bed4e3d7cf4bc80b6f7")]
 [assembly: System.Reflection.AssemblyProductAttribute("ShadowController")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ShadowController")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

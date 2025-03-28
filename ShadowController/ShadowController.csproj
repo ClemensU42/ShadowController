@@ -22,6 +22,12 @@
 
     <ItemGroup>
       <Folder Include="Rendering\" />
-      <Folder Include="UI\" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Compile Update="UI\MainWindow.axaml.cs">
+        <DependentUpon>MainWindow.axaml</DependentUpon>
+        <SubType>Code</SubType>
+      </Compile>
     </ItemGroup>
 </Project>

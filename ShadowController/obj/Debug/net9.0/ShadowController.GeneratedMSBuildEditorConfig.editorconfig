@@ -24,5 +24,8 @@ build_property.EnableCodeStyleSeverity =
 [/home/clemens/RiderProjects/ShadowController/ShadowController/App.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
-[/home/clemens/RiderProjects/ShadowController/ShadowController/MainWindow.axaml]
+[/home/clemens/RiderProjects/ShadowController/ShadowController/UI/CoordinateDisplay.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[/home/clemens/RiderProjects/ShadowController/ShadowController/UI/MainWindow.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
